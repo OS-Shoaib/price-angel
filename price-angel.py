@@ -1,3 +1,7 @@
+""" This app is wright by Omar Shoaib you have the write to copy or improve this
+code with mention the source .
+email: eng.omarshoaib@gmail.com """
+
 from tkinter import *
 import math
 import pyperclip
